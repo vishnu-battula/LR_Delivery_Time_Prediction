@@ -1,2 +1,3 @@
-# LR_Delivery_Time_Prediction
 LR_Delivery_Time_Prediction
+Notebook Name : LR_Delivery_Time_Estimation_Starter_VishnuBattula.ipynb
+PDF Name : Report_LR_Delivery_Time_Starter_VishnuBattula.pdf
